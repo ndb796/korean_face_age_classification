@@ -27,6 +27,7 @@ F0900_AGE_M_57_f2.jpg
   * 주어진 한 장의 한국인 얼굴 이미지가 어떠한 나이군에 해당하는지 예측하는 작업을 수행한다.
 
 * <b>데이터 세트 다운로드</b>: [custom_korean_family_dataset_resolution_128.zip](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/EbMhBPnmIb5MutZvGicPKggBWKm5hLs0iwKfGW7_TwQIKg)
+  * 본 데이터 세트는 [AI Hub "가족 관계가 알려진 얼굴 이미지 데이터 세트"](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=528)를 활용한다.
 
 #### 소스 코드
 
